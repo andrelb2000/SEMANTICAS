@@ -1,0 +1,33 @@
+.cabecalho{
+    border: 3px; 
+    border-style: solid;
+    background-color: yellow;
+}
+.navegacao{
+    border: 3px; 
+    border-style: solid;
+    background-color: aqua;
+}
+.lateral{
+    border: 3px; 
+    border-style: solid; 
+    float:right; 
+    width: 40%;
+    background-color: gainsboro;
+}
+.secao{
+    display: inline-block; 
+    border: 3px; 
+    border-style: solid;
+    background-color: deepskyblue;
+}
+.rodape{
+    border: 3px; 
+    border-style: solid;
+    background-color: burlywood;
+}
+.artigo{
+    border: 3px; 
+    border-style: solid;
+    background-color: beige;
+}

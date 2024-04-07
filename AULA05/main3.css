@@ -1,0 +1,33 @@
+header{
+    border: 3px; 
+    border-style: solid;
+    background-color: yellow;
+}
+nav{
+    border: 3px; 
+    border-style: solid;
+    background-color: aqua;
+}
+aside{
+    border: 3px; 
+    border-style: solid; 
+    float:right; 
+    width: 40%;
+    background-color: gainsboro;
+}
+section{
+    display: inline-block; 
+    border: 3px; 
+    border-style: solid;
+    background-color: deepskyblue;
+}
+footer{
+    border: 3px; 
+    border-style: solid;
+    background-color: burlywood;
+}
+article{
+    border: 3px; 
+    border-style: solid;
+    background-color: beige;
+}
